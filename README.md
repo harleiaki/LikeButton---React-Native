@@ -4,6 +4,7 @@ import React, {Component} from 'react';
 import {StyleSheet, Text, TouchableOpacity, View} from 'react-native';
 import { Button } from 'react-native-paper';
 import { AntDesign } from '@expo/vector-icons';  //icone relogio,coracao
+
 class App extends Component {
 
   state = {
